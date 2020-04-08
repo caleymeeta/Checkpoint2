@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="2"
+            tests="2">
+
+  <testsuite name="evenodd"
+    errors="1" failures="2" hostname="" id="" package="evenodd" skipped="0"
+    tests="2" time="12.43" timestamp="">
+  
+    <testcase name="Blank input" classname="evenodd" time="6.300" assertions="1">  <failure message="Expected element &lt;//span[@name=&#39;evenResults&#39;]&gt; text to equal: [0;33m&#34;&#34;[0m - expected [0;32m&#34;equal &#39;&#39;&#34;[0m but got: [0;31m&#34;Evens: [null]&#34;[0m[0;90m (5272ms)[0m">    at Object.Blank input (/Users/meetasingh/Desktop/devmountain/Check2/tests/evenodd.js:18:21)</failure>
+
+    
+    </testcase>
+  
+    <testcase name="Giving alpabhets as input" classname="evenodd" time="6.129" assertions="3">
+
+    
+
+      <failure message="should be blank [],No null value in 5000ms - expected [0;32m&#34;contains text &#39;[]&#39;&#34;[0m but got: [0;31m&#34;does not contain &#39;[]&#39;&#34;[0m [0;90m(5382ms)[0m">    at Object.Giving alpabhets as input (/Users/meetasingh/Desktop/devmountain/Check2/tests/evenodd.js:33:18)</failure>
+
+    
+    </testcase>
+  
+
+  
+    <system-err>
+      [0;31m  Error: Unknown property: &#34;expect&#34;. Please consult docs at: http://nightwatchjs.org/api.[0m
+[0;90m       at Object.Blank input (/Users/meetasingh/Desktop/devmountain/Check2/tests/evenodd.js:19:13)
+       at processTicksAndRejections (internal/process/task_queues.js:97:5)[0m
+    </system-err>
+  
+
+  
+  </testsuite>
+</testsuites>

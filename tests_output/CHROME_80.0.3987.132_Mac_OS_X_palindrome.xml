@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="palindrome"
+    errors="0" failures="1" hostname="" id="" package="palindrome" skipped="0"
+    tests="1" time="11.50" timestamp="">
+  
+    <testcase name="Giving Blank space" classname="palindrome" time="11.50" assertions="2">
+
+      <failure message="Expected element &lt;//span[@name=&#39;palindromeResults&#39;]&gt; text to equal: [0;33m&#34; &#34;[0m - expected [0;32m&#34;equal &#39; &#39;&#34;[0m but got: [0;31m&#34;Palindrome: true&#34;[0m[0;90m (5300ms)[0m">    at Object.Giving Blank space (/Users/meetasingh/Desktop/devmountain/Check2/tests/palindrome.js:18:21)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

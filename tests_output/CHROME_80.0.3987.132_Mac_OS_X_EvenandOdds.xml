@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="5">
+
+  <testsuite name="EvenandOdds"
+    errors="0" failures="0" hostname="" id="" package="EvenandOdds" skipped="0"
+    tests="5" time="36.39" timestamp="">
+  
+    <testcase name="Even and Odd 1" classname="EvenandOdds" time="4.641" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Filterobject 2" classname="EvenandOdds" time="5.355" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="FilterSring 3" classname="EvenandOdds" time="5.423" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Palindrome 4" classname="EvenandOdds" time="13.58" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Sum 5" classname="EvenandOdds" time="7.386" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

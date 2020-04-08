@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="sum"
+    errors="0" failures="1" hostname="" id="" package="sum" skipped="0"
+    tests="1" time="6.342" timestamp="">
+  
+    <testcase name="Giving no value" classname="sum" time="6.342" assertions="2">
+
+      <failure message="Expected element &lt;//span[@name=&#39;sumResults&#39;]&gt; text to equal: [0;33m&#34; &#34;[0m - expected [0;32m&#34;equal &#39; &#39;&#34;[0m but got: [0;31m&#34;Sum: 0&#34;[0m[0;90m (5216ms)[0m">    at Object.Giving no value (/Users/meetasingh/Desktop/devmountain/Check2/tests/sum.js:19:17)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
